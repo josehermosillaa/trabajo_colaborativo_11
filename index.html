@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <!-- hoja de estilos propia -->
+
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center">Studio Ghibli</h1>
+      <div class="row">
+        <div class="col-6 mx-auto">
+          <label for="fw-bold">Select the movie</label>
+          <select
+            class="form-select"
+            id="selectFilm"
+            aria-label="Default select example"
+          >
+            <option>Select a film</option>
+            <option value="Arrietty">Arrietty</option>
+            <option value="Castle in the Sky">Castle in the Sky</option>
+            <option value="Earwig and the Witch">Earwig and the Witch</option>
+            <option value="From Up on Poppy Hill">From Up on Poppy Hill</option>
+            <option value="Grave of the Fireflies">
+              Grave of the Fireflies
+            </option>
+            <option value="How Do You Live?">How Do You Live?</option>
+            <option value="Howl's Moving Castle">Howl's Moving Castle</option>
+            <option value="Kiki's Delivery Service">
+              Kiki's Delivery Service
+            </option>
+            <option value="My Neighbor Totoro">My Neighbor Totoro</option>
+            <option value="My Neighbors the Yamadas">
+              My Neighbors the Yamadas
+            </option>
+            <option value="Ocean Waves">Ocean Waves</option>
+            <option value="Only Yesterday">Only Yesterday</option>
+            <option value="Pom Poko">Pom Poko</option>
+            <option value="Ponyo">Ponyo</option>
+            <option value="Porco Rosso">Porco Rosso</option>
+            <option value="Princess Mononoke">Princess Mononoke</option>
+            <option value="Spirited Away">Spirited Away</option>
+            <option value="Tales from Earthsea">Tales from Earthsea</option>
+            <option value="The Cat Returns">The Cat Returns</option>
+            <option value="The Tale of Princess Kaguya">
+              The Tale of Princess Kaguya
+            </option>
+            <option value="The Wind Rises">The Wind Rises</option>
+            <option value="When Marnie Was There">When Marnie Was There</option>
+            <option value="Whisper of the Heart">Whisper of the Heart</option>
+          </select>
+          <button type="button" class="btn btn-dark mt-2" id="boton">
+            Load Movie
+          </button>
+        </div>
+      </div>
+      <div class="card mx-auto my-5" id="tarjeta" style="width: 18rem"></div>
+    </div>
+    <!-- Bootsrap -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <!-- jquery -->
+    <script
+      src="https://code.jquery.com/jquery-3.6.4.min.js"
+      integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+      crossorigin="anonymous"
+    ></script>
+    <script src="assets/js/index.js"></script>
+  </body>
+</html>
