@@ -1,0 +1,140 @@
+[33mcommit 91a9557eeedd5c6980e23219efc9e17d4ffdd056[m[33m ([m[1;36mHEAD -> [m[1;32mjosematamoros[m[33m, [m[1;31morigin/josematamoros[m[33m)[m
+Merge: 93f77a4 5c7e970
+Author: AryunDev <josematamoros916@gmail.com>
+Date:   Wed Apr 12 13:14:42 2023 -0400
+
+    Merge branch 'master' of https://github.com/josehermosillaa/trabajo_colaborativo_11 into josematamoros
+
+[33mcommit 5c7e9701d4ffef58396c68e7e68f8336716593f4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3a46e9c 573d9a1
+Author: Jose.hermosillaa <42837389+josehermosillaa@users.noreply.github.com>
+Date:   Wed Apr 12 13:14:07 2023 -0400
+
+    Merge pull request #1 from josehermosillaa/monicarvajal
+    
+    hola
+
+[33mcommit 93f77a477f46f6fb8065e28f1af67c7b68bd597c[m
+Merge: 8581745 3a46e9c
+Author: AryunDev <josematamoros916@gmail.com>
+Date:   Wed Apr 12 13:13:33 2023 -0400
+
+    otro intento hahah
+
+[33mcommit 3a46e9c73b362031accf231aa7189cea9c4a562e[m
+Merge: af977fe 8fcbee6
+Author: Jose.hermosillaa <42837389+josehermosillaa@users.noreply.github.com>
+Date:   Wed Apr 12 13:11:59 2023 -0400
+
+    Merge pull request #6 from josehermosillaa/GuillermoGonzalez
+    
+    Prueba agrege background colour
+
+[33mcommit 8581745d6dcaca71f5378411f7dfe67156e974d9[m
+Author: AryunDev <josematamoros916@gmail.com>
+Date:   Wed Apr 12 13:04:08 2023 -0400
+
+    algun mensaje
+
+[33mcommit af977fed7dba2eacc78704fc918d06244b1d86cf[m[33m ([m[1;31morigin/gh-pages[m[33m)[m
+Merge: 6e34a6d 8ffe0f0
+Author: Jose.hermosillaa <42837389+josehermosillaa@users.noreply.github.com>
+Date:   Wed Apr 12 12:49:08 2023 -0400
+
+    Merge pull request #3 from josehermosillaa/programador11
+    
+    Cambie el titulo de la pagina
+
+[33mcommit 8ffe0f08c44324db2d0073e10531df4576455422[m
+Merge: 6d71c9c 6e34a6d
+Author: Jose.hermosillaa <42837389+josehermosillaa@users.noreply.github.com>
+Date:   Wed Apr 12 12:48:56 2023 -0400
+
+    Merge branch 'master' into programador11
+
+[33mcommit 6e34a6d3e26337a1ce50f65b29cf869f36a62a93[m
+Merge: a1d2c25 ada80a9
+Author: Malejand <87553125+Malejand@users.noreply.github.com>
+Date:   Wed Apr 12 12:46:14 2023 -0400
+
+    Merge pull request #7 from josehermosillaa/revert-5-profesor
+    
+    Revert "Profesor"
+
+[33mcommit ada80a96e059758b9d033f1ad31b995ffe871ee4[m[33m ([m[1;31morigin/revert-5-profesor[m[33m)[m
+Author: Malejand <87553125+Malejand@users.noreply.github.com>
+Date:   Wed Apr 12 12:45:33 2023 -0400
+
+    Revert "Profesor"
+
+[33mcommit a1d2c25ac934933b94e8e894bb21b3561a0af4f8[m
+Merge: 74767f2 aac05cc
+Author: Malejand <87553125+Malejand@users.noreply.github.com>
+Date:   Wed Apr 12 12:45:09 2023 -0400
+
+    Merge pull request #5 from josehermosillaa/profesor
+    
+    Profesor
+
+[33mcommit 74767f27167cc3af67d1b0611f06b1be729761df[m
+Merge: d836aaa a58c28e
+Author: daniela saavedra <83242850+emmysck@users.noreply.github.com>
+Date:   Wed Apr 12 12:44:27 2023 -0400
+
+    Merge pull request #4 from josehermosillaa/emmy
+    
+    Emmy
+
+[33mcommit 8fcbee6dbd3697894b73fff799eec698a8e896b6[m[33m ([m[1;31morigin/GuillermoGonzalez[m[33m)[m
+Author: GGonzalezz19 <GuillermoGonzalez19@gmail.com>
+Date:   Wed Apr 12 12:40:26 2023 -0400
+
+    Prueba agrege background colour
+
+[33mcommit aac05cce8fb74e3670211471382844166dd0bd42[m[33m ([m[1;31morigin/profesor[m[33m)[m
+Author: josehermosilla <jose.hermosillaa@usach.cl>
+Date:   Wed Apr 12 12:36:07 2023 -0400
+
+    le agregue la s en la linea 66
+
+[33mcommit 573d9a1869c3a9cd2835e19b95b292dba348b979[m[33m ([m[1;31morigin/monicarvajal[m[33m)[m
+Author: monkeynator7 <fernacarvajal@mac.com>
+Date:   Wed Apr 12 12:28:21 2023 -0400
+
+    mc1
+
+[33mcommit b9dd98c7832b7a9e6e0785226dedd99c41cf136a[m
+Author: AryunDev <josematamoros916@gmail.com>
+Date:   Wed Apr 12 12:28:17 2023 -0400
+
+    este commit solo tiene un comentario agregado por mi
+
+[33mcommit e596fd5c7667a53a3664fdc8d47d0327ca61f880[m
+Author: josehermosilla <jose.hermosillaa@usach.cl>
+Date:   Wed Apr 12 12:26:58 2023 -0400
+
+    realice el cambio del nombre del boton
+
+[33mcommit a58c28e50f027fdd3f43c9a45d37f018d5e50616[m[33m ([m[1;31morigin/emmy[m[33m)[m
+Author: daniela saavedra <daniela.ocampos1@gmail.com>
+Date:   Wed Apr 12 12:25:08 2023 -0400
+
+    cambios css y title
+
+[33mcommit f14475f38bdeb37ee4d449c9afbe03158353d0cf[m
+Author: daniela saavedra <daniela.ocampos1@gmail.com>
+Date:   Wed Apr 12 12:23:18 2023 -0400
+
+    cambios en css y title
+
+[33mcommit 6d71c9c782b48ca008c87d4ba6eec577471877b0[m[33m ([m[1;31morigin/programador11[m[33m)[m
+Author: alejandrocastroalarcon <matiascastroalarcon@gmail.com>
+Date:   Wed Apr 12 12:22:48 2023 -0400
+
+    Cambie el titulo de la pagina
+
+[33mcommit d836aaa299ebcce97dbe3d38e31e52f7dac65c37[m[33m ([m[1;31morigin/pablo[m[33m, [m[1;31morigin/jorge_castillo[m[33m)[m
+Author: josehermosilla <jose.hermosillaa@usach.cl>
+Date:   Wed Apr 12 11:58:37 2023 -0400
+
+    primer commit
