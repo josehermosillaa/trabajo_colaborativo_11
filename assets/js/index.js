@@ -14,14 +14,14 @@ $(document).ready(function () {
 
     function generador(datos) {
         card.innerHTML = ""
-        card.innerHTML = `<img src="${datos.poster}" class="card-img-top" alt="..." />
+        card.innerHTML = `<img src="${datos.poster}" class="card-img-top shadow mb-5 bg-white rounded" alt="..." />
     <div class="card-body">
       <h5 class="card-title text-center fw-bold">${datos.title}</h5>
       <p class="card-text">
         <span class="fw-bold">Descripcion: </span> ${datos.synopsis}
       </p>
     </div>
-    <ul class="list-group list-group-flush">
+    <ul class="list-group list-group-flush text-center">
       <li class="list-group-item">
         <span class="fw-bold">Titulo Romanizado:</span> ${datos.hepburn}
       </li>
